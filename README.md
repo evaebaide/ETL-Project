@@ -1,9 +1,6 @@
-# ETL-Project_Suleyman-Eva
 # ETL Project
 
-Eva and Suleman
 ETL Project
-Final Report
 
 # Extract
 Extracted a dataset on Houston Population from Census.gov. https://api.census.gov/data/2017/acs/acs1/groups.html
