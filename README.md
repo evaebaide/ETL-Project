@@ -13,7 +13,7 @@ The necessary columns from the school dataset was selected.   The columns were r
 The data in both population and public school in Houston data were retrieved by common zip codes.  And the irrelevant columns were dropped.   And both datasets were merged. 
 
 # Load
-A postgressql database was created, and connection was established to the database via Jupyter Noebook.
+A postgresql database was created, and connection was established to the database via Jupyter Noebook.
 Stored and loaded the following tables:
 •	census_sorted;
 •	cleaner;
